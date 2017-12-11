@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles>
+  <profile username="uvaskar">
+    <name>Nirvar Roy Vaskar</name>
+    <email>nirvarroy@hotmail.com</email>
+    <password>1111</password>
+    <gender>Male</gender>
+    <dob>1/1/1994</dob>
+  </profile>
+  <profile username="antara">
+    <name>Sumaiya Antara</name>
+    <email>ttst21@gmail.com</email>
+    <password>2222</password>
+    <gender>Female</gender>
+    <dob>3/3/1995</dob>
+  </profile>
+  <profile username="moitri">
+    <name>Rubama Moitri</name>
+    <email>moitri@gmail.com</email>
+    <password>3333</password>
+    <gender>Female</gender>
+    <dob>5/5/1996</dob>
+  </profile>
+  <profile username="arko">
+    <name>Arko Saha</name>
+    <email>arko@gmail.com</email>
+    <password>4444</password>
+    <gender>Male</gender>
+    <dob>7/7/1997</dob>
+  </profile>
+<profile username="craig"><name>Daniel</name><email>craig@boss.com</email><password>3333</password><gender>Male</gender><dob>1121970</dob></profile></profiles>
